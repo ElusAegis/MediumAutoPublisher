@@ -1,0 +1,6 @@
+%%%
+Language : Language
+Title : Example Article
+Text...
+IMAGE : image_name.jpeg
+Text...
